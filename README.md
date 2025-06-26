@@ -20,17 +20,10 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 - React.js (if used)
 - Netlify (for deployment)
 
-## 🚀 Getting Started (For Developers)
-
-To run the project locally:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-npm install
-npm start
 
 
 
-![Screenshot (201)](https://github.com/user-attachments/assets/99583aaf-e152-4e35-bded-05c74fe203da)
+
+![Screenshot (201)](https://github.com/user-attachments/assets/159bbd3a-1c99-4a3d-bfa0-9a0cd90bd93a)
+
 
